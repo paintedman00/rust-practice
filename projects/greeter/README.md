@@ -1,13 +1,21 @@
 # Greeter
 
-A simple CLI application that greets the user.
+A simple command-line tool that greets the user.
 
 ## Usage
 
-Run the executable and provide a name as an argument:
-
 ```bash
-./greeter John
+greeter <name>
 ```
 
-This will print: `Hello, John!`
+## Example
+
+```bash
+greeter Alice
+```
+
+Output:
+
+```
+Hello, Alice!
+```
