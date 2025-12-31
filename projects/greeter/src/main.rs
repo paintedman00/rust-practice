@@ -4,8 +4,8 @@ fn main() {
     let args: Vec<String> = env::args().collect();
 
     if args.len() < 2 {
-        println!("Please provide a name as an argument.");
-        return;
+        eprintln!("Usage: greeter <name>");
+        std::process::exit(1);
     }
 
     let name = &args[1];
