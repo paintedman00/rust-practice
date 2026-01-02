@@ -1,21 +1,23 @@
 # Greeter
 
-A simple command-line tool that greets the user.
+A simple CLI application written in Rust that greets the user.
 
 ## Usage
 
 ```bash
-greeter <name>
+./greeter <name>
 ```
+
+Replace `<name>` with the name you want to greet.
 
 ## Example
 
 ```bash
-greeter Alice
+./greeter World
 ```
 
 Output:
 
 ```
-Hello, Alice!
+Hello, World!
 ```
