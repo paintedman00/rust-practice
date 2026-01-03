@@ -1,23 +1,19 @@
 # Simple Greeter
 
-A simple command-line tool that greets the user.
+A basic command-line application that greets the user.
 
 ## Usage
 
 ```bash
-./simple_greeter <name>
+simple_greeter <name>
 ```
 
-Replace `<name>` with the name you want to greet.
+Replaces `<name>` with the name you want to greet.
 
-## Example
+## Examples
 
 ```bash
-./simple_greeter World
+simple_greeter World
 ```
 
-Output:
-
-```
-Hello, World!
-```
+Will output: `Hello, World!`
