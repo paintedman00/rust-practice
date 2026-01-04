@@ -1,23 +1,17 @@
-# Greeter
+# Greeter CLI
 
-A simple CLI application written in Rust that greets the user.
+A simple command-line application that greets the user.
 
 ## Usage
 
-```bash
-./greeter <name>
-```
-
-Replace `<name>` with the name you want to greet.
-
-## Example
+Run the program with the `--name` argument to specify the name to greet:
 
 ```bash
-./greeter World
+./greeter --name "Your Name"
 ```
 
-Output:
+## Building
 
-```
-Hello, World!
+```bash
+cargo build --release
 ```
