@@ -1,13 +1,20 @@
-use std::env;
+use clap::{Arg, App};
 
 fn main() {
-    let args: Vec<String> = env::args().collect();
+    let matches = App::new("Greeter")
+        .version("0.1.0")
+        .author("Your Name <you@example.com>")
+        .about("Greets the user.")
+        .arg(Arg::with_name("name")
+             .short("n")
+             .long("name")
+             .value_name("NAME")
+             .help("Sets the name of the person to greet")
+             .required(true)
+             .takes_value(true))
+        .get_matches();
 
-    if args.len() != 2 {
-        eprintln!("Usage: greeter <name>");
-        std::process::exit(1);
-    }
+    let name = matches.value_of("name").unwrap();
 
-    let name = &args[1];
     println!("Hello, {}!", name);
 }
