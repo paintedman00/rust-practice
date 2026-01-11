@@ -7,3 +7,4 @@
 - md_header_extractor ([folder](./md_header_extractor))
 - env_inspector ([folder](./env_inspector))
 - text_stats ([folder](./text_stats))
+- stack_calc ([folder](./stack_calc))
