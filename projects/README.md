@@ -9,3 +9,4 @@
 - text_stats ([folder](./text_stats))
 - stack_calc ([folder](./stack_calc))
 - json_validator ([folder](./json_validator))
+- temp_convert ([folder](./temp_convert))
