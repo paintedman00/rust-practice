@@ -10,3 +10,4 @@
 - stack_calc ([folder](./stack_calc))
 - json_validator ([folder](./json_validator))
 - temp_convert ([folder](./temp_convert))
+- file_perm_analyzer ([folder](./file_perm_analyzer))
