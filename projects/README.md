@@ -13,3 +13,4 @@
 - file_perm_analyzer ([folder](./file_perm_analyzer))
 - net_util ([folder](./net_util))
 - hex_view ([folder](./hex_view))
+- log_time_parser ([folder](./log_time_parser))
