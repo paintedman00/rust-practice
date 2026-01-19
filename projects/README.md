@@ -15,3 +15,4 @@
 - hex_view ([folder](./hex_view))
 - log_time_parser ([folder](./log_time_parser))
 - uuid_cli ([folder](./uuid_cli))
+- env_peek ([folder](./env_peek))
