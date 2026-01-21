@@ -17,3 +17,4 @@
 - uuid_cli ([folder](./uuid_cli))
 - env_peek ([folder](./env_peek))
 - hex_inspector ([folder](./hex_inspector))
+- bin_dec ([folder](./bin_dec))
