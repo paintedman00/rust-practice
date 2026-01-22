@@ -18,3 +18,4 @@
 - env_peek ([folder](./env_peek))
 - hex_inspector ([folder](./hex_inspector))
 - bin_dec ([folder](./bin_dec))
+- subnet_tool ([folder](./subnet_tool))
