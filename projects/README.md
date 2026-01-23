@@ -19,3 +19,4 @@
 - hex_inspector ([folder](./hex_inspector))
 - bin_dec ([folder](./bin_dec))
 - subnet_tool ([folder](./subnet_tool))
+- bin2dec_util ([folder](./bin2dec_util))
