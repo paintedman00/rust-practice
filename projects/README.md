@@ -24,3 +24,4 @@
 - arg_inspector ([folder](./arg_inspector))
 - rust_wc ([folder](./rust_wc))
 - hashmap_demo ([folder](./hashmap_demo))
+- uptime_mock ([folder](./uptime_mock))
