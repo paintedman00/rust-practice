@@ -25,3 +25,4 @@
 - rust_wc ([folder](./rust_wc))
 - hashmap_demo ([folder](./hashmap_demo))
 - uptime_mock ([folder](./uptime_mock))
+- uuid_gen ([folder](./uuid_gen))
