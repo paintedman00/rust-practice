@@ -26,3 +26,4 @@
 - hashmap_demo ([folder](./hashmap_demo))
 - uptime_mock ([folder](./uptime_mock))
 - uuid_gen ([folder](./uuid_gen))
+- uuid_factory ([folder](./uuid_factory))
