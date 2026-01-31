@@ -27,3 +27,4 @@
 - uptime_mock ([folder](./uptime_mock))
 - uuid_gen ([folder](./uuid_gen))
 - uuid_factory ([folder](./uuid_factory))
+- json_schema_check ([folder](./json_schema_check))
