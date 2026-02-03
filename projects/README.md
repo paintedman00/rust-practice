@@ -30,3 +30,4 @@
 - json_schema_check ([folder](./json_schema_check))
 - csv2json_cli ([folder](./csv2json_cli))
 - ip_subnetter ([folder](./ip_subnetter))
+- base64_tool ([folder](./base64_tool))
