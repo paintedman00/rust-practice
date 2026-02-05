@@ -32,3 +32,4 @@
 - ip_subnetter ([folder](./ip_subnetter))
 - base64_tool ([folder](./base64_tool))
 - csv_jsonify ([folder](./csv_jsonify))
+- crypt_cli ([folder](./crypt_cli))
