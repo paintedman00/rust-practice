@@ -34,3 +34,4 @@
 - csv_jsonify ([folder](./csv_jsonify))
 - crypt_cli ([folder](./crypt_cli))
 - log_timestamp_extractor ([folder](./log_timestamp_extractor))
+- json_struct_lint ([folder](./json_struct_lint))
