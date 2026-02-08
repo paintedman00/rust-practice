@@ -35,3 +35,4 @@
 - crypt_cli ([folder](./crypt_cli))
 - log_timestamp_extractor ([folder](./log_timestamp_extractor))
 - json_struct_lint ([folder](./json_struct_lint))
+- crypt_tool ([folder](./crypt_tool))
