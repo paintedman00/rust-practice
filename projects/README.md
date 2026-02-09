@@ -36,3 +36,4 @@
 - log_timestamp_extractor ([folder](./log_timestamp_extractor))
 - json_struct_lint ([folder](./json_struct_lint))
 - crypt_tool ([folder](./crypt_tool))
+- simple_hashmap_demo ([folder](./simple_hashmap_demo))
