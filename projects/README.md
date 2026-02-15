@@ -42,3 +42,4 @@
 - binary_transmuter ([folder](./binary_transmuter))
 - file_access_info ([folder](./file_access_info))
 - csv_to_json ([folder](./csv_to_json))
+- rev_polish_calc ([folder](./rev_polish_calc))
