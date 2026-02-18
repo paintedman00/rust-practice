@@ -45,3 +45,4 @@
 - rev_polish_calc ([folder](./rev_polish_calc))
 - md_header_list ([folder](./md_header_list))
 - mock_uptime ([folder](./mock_uptime))
+- text_cipher ([folder](./text_cipher))
