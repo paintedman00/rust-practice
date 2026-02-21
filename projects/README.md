@@ -48,3 +48,4 @@
 - text_cipher ([folder](./text_cipher))
 - dir_tree_display ([folder](./dir_tree_display))
 - string_hashmap_demo ([folder](./string_hashmap_demo))
+- text_analyzer ([folder](./text_analyzer))
