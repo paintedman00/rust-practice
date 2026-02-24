@@ -51,3 +51,4 @@
 - text_analyzer ([folder](./text_analyzer))
 - file_audit ([folder](./file_audit))
 - http_response_peek ([folder](./http_response_peek))
+- text_navigator ([folder](./text_navigator))
