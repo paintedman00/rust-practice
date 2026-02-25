@@ -52,3 +52,4 @@
 - file_audit ([folder](./file_audit))
 - http_response_peek ([folder](./http_response_peek))
 - text_navigator ([folder](./text_navigator))
+- http_response_parser ([folder](./http_response_parser))
