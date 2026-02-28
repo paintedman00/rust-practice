@@ -55,3 +55,4 @@
 - http_response_parser ([folder](./http_response_parser))
 - env_revealer ([folder](./env_revealer))
 - arg_explorer ([folder](./arg_explorer))
+- linked_list_lab ([folder](./linked_list_lab))
