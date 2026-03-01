@@ -56,3 +56,4 @@
 - env_revealer ([folder](./env_revealer))
 - arg_explorer ([folder](./arg_explorer))
 - linked_list_lab ([folder](./linked_list_lab))
+- simple_cipher_cli ([folder](./simple_cipher_cli))
