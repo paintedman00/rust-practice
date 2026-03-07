@@ -61,3 +61,4 @@
 - tree_view ([folder](./tree_view))
 - struct_explorer ([folder](./struct_explorer))
 - system_health_mock ([folder](./system_health_mock))
+- polish_notation_calculator ([folder](./polish_notation_calculator))
