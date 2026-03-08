@@ -62,3 +62,4 @@
 - struct_explorer ([folder](./struct_explorer))
 - system_health_mock ([folder](./system_health_mock))
 - polish_notation_calculator ([folder](./polish_notation_calculator))
+- timestamp_inspector ([folder](./timestamp_inspector))
