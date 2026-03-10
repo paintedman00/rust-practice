@@ -64,3 +64,4 @@
 - polish_notation_calculator ([folder](./polish_notation_calculator))
 - timestamp_inspector ([folder](./timestamp_inspector))
 - file_size_histo ([folder](./file_size_histo))
+- uuid_maker ([folder](./uuid_maker))
