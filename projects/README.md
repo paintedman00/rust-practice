@@ -65,3 +65,4 @@
 - timestamp_inspector ([folder](./timestamp_inspector))
 - file_size_histo ([folder](./file_size_histo))
 - uuid_maker ([folder](./uuid_maker))
+- hashmap_playground ([folder](./hashmap_playground))
