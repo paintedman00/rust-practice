@@ -67,3 +67,4 @@
 - uuid_maker ([folder](./uuid_maker))
 - hashmap_playground ([folder](./hashmap_playground))
 - log_ts_analyzer ([folder](./log_ts_analyzer))
+- cryptic_cli ([folder](./cryptic_cli))
