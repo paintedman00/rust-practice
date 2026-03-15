@@ -69,3 +69,4 @@
 - log_ts_analyzer ([folder](./log_ts_analyzer))
 - cryptic_cli ([folder](./cryptic_cli))
 - rpn_calc ([folder](./rpn_calc))
+- log_time_inspector ([folder](./log_time_inspector))
