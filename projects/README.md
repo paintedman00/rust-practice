@@ -70,3 +70,4 @@
 - cryptic_cli ([folder](./cryptic_cli))
 - rpn_calc ([folder](./rpn_calc))
 - log_time_inspector ([folder](./log_time_inspector))
+- hex_peek ([folder](./hex_peek))
