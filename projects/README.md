@@ -72,3 +72,4 @@
 - log_time_inspector ([folder](./log_time_inspector))
 - hex_peek ([folder](./hex_peek))
 - hex_reveal ([folder](./hex_reveal))
+- cli_args_demo ([folder](./cli_args_demo))
