@@ -77,3 +77,4 @@
 - cli_arg_parser ([folder](./cli_arg_parser))
 - env_sight ([folder](./env_sight))
 - http_response_analyzer ([folder](./http_response_analyzer))
+- system_status_sim ([folder](./system_status_sim))
