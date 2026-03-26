@@ -79,3 +79,4 @@
 - http_response_analyzer ([folder](./http_response_analyzer))
 - system_status_sim ([folder](./system_status_sim))
 - permissions_inspector ([folder](./permissions_inspector))
+- header_miner ([folder](./header_miner))
