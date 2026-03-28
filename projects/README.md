@@ -81,3 +81,4 @@
 - permissions_inspector ([folder](./permissions_inspector))
 - header_miner ([folder](./header_miner))
 - list_experiment ([folder](./list_experiment))
+- file_size_histogram ([folder](./file_size_histogram))
